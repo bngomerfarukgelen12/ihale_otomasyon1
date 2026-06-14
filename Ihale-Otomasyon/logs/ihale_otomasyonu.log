@@ -1,0 +1,45 @@
+2026-06-07 12:04:58 - ihale_otomasyonu - INFO - ============================================================
+2026-06-07 12:04:58 - ihale_otomasyonu - INFO - Program başlatıldı: 2026-06-07 12:04:58
+2026-06-07 12:04:58 - ihale_otomasyonu - INFO - ============================================================
+2026-06-07 12:05:01 - ihale_otomasyonu - INFO - PDF metni çıkarıldı (PyMuPDF): CSB İNŞAAT BİRİM FİYAT LİSTESİ.pdf (309,917 karakter)
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO - Excel dosyası kaydedildi: C:\Users\argge\OneDrive\Masaüstü\Ihale-Otomasyon\csb_poz_numaralari.xlsx
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO - ============================================================
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO - OPERASYON ÖZETİ
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO -   Sayfa metni: 309,982 karakter
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO -   Bulunan poz sayısı: 1878
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO -   Excel dosyası: C:\Users\argge\OneDrive\Masaüstü\Ihale-Otomasyon\csb_poz_numaralari.xlsx
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO - ============================================================
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO - Program sonlandırıldı (BAŞARILI): 2026-06-07 12:05:02
+2026-06-07 12:05:02 - ihale_otomasyonu - INFO - ============================================================
+2026-06-07 12:05:34 - ihale_otomasyonu - INFO - PDF dosyalarını işleme başlanıyor: 8 dosya
+2026-06-07 12:05:34 - ihale_otomasyonu - DEBUG - PDF açıldı: 2006 _YILI_PTT_BiRiM_FiYATLARI.pdf (25,812 karakter)
+2026-06-07 12:05:35 - ihale_otomasyonu - INFO - PDF işlendi: 2006 _YILI_PTT_BiRiM_FiYATLARI.pdf - 285 poz bulundu
+2026-06-07 12:05:35 - ihale_otomasyonu - DEBUG - PDF açıldı: 2026-yili-iller bankası-birim-fiyatlari-listesi.pdf (434,699 karakter)
+2026-06-07 12:05:35 - ihale_otomasyonu - INFO - PDF işlendi: 2026-yili-iller bankası-birim-fiyatlari-listesi.pdf - 2962 poz bulundu
+2026-06-07 12:05:37 - ihale_otomasyonu - DEBUG - PDF açıldı: CSB ELEKTRİK TESİSAT FİYAT LİSTESİ.pdf (490,594 karakter)
+2026-06-07 12:05:37 - ihale_otomasyonu - INFO - PDF işlendi: CSB ELEKTRİK TESİSAT FİYAT LİSTESİ.pdf - 5911 poz bulundu
+2026-06-07 12:05:39 - ihale_otomasyonu - DEBUG - PDF açıldı: CSB İNŞAAT BİRİM FİYAT LİSTESİ.pdf (309,917 karakter)
+2026-06-07 12:05:39 - ihale_otomasyonu - INFO - PDF işlendi: CSB İNŞAAT BİRİM FİYAT LİSTESİ.pdf - 1878 poz bulundu
+2026-06-07 12:05:42 - ihale_otomasyonu - DEBUG - PDF açıldı: CSB MEKANİK TESİSAT FİYAT LİSTESİ.pdf (577,083 karakter)
+2026-06-07 12:05:42 - ihale_otomasyonu - INFO - PDF işlendi: CSB MEKANİK TESİSAT FİYAT LİSTESİ.pdf - 5679 poz bulundu
+2026-06-07 12:05:42 - ihale_otomasyonu - DEBUG - PDF açıldı: dsi_2026_yili_birim_fiyat_kitabi.pdf (218,126 karakter)
+2026-06-07 12:05:42 - ihale_otomasyonu - INFO - PDF işlendi: dsi_2026_yili_birim_fiyat_kitabi.pdf - 1905 poz bulundu
+2026-06-07 12:05:43 - ihale_otomasyonu - DEBUG - PDF açıldı: E.007 - YANGIN ALGILAMA PLANI.pdf (13,822 karakter)
+2026-06-07 12:05:43 - ihale_otomasyonu - INFO - PDF işlendi: E.007 - YANGIN ALGILAMA PLANI.pdf - 0 poz bulundu
+2026-06-07 12:05:43 - ihale_otomasyonu - DEBUG - PDF açıldı: KGM 2026YiliBirimFiyatListesi.pdf (172,094 karakter)
+2026-06-07 12:05:43 - ihale_otomasyonu - INFO - PDF işlendi: KGM 2026YiliBirimFiyatListesi.pdf - 1 poz bulundu
+2026-06-07 12:05:43 - ihale_otomasyonu - INFO - Toplam 18621 poz işlendi
+2026-06-07 12:05:45 - ihale_otomasyonu - INFO - Cache dosyası kaydedildi: C:\Users\argge\OneDrive\Masaüstü\Ihale-Otomasyon\excel\csb_tum_fiyatlar.xlsx
+2026-06-07 12:05:47 - ihale_otomasyonu - INFO - Tanım cache dosyası kaydedildi: C:\Users\argge\OneDrive\Masaüstü\Ihale-Otomasyon\excel\csb_tum_tanimlar.xlsx
+2026-06-07 12:06:22 - ihale_otomasyonu - DEBUG - Güncel cache bulundu, yükleniyor
+2026-06-07 12:06:24 - ihale_otomasyonu - INFO - Cache yüklendi: 18621 poz
+2026-06-07 12:06:25 - ihale_otomasyonu - INFO - Tanım cache yüklendi: 18547 poz
+2026-06-07 12:07:17 - ihale_otomasyonu - DEBUG - Güncel cache bulundu, yükleniyor
+2026-06-07 12:07:19 - ihale_otomasyonu - INFO - Cache yüklendi: 18621 poz
+2026-06-07 12:07:21 - ihale_otomasyonu - INFO - Tanım cache yüklendi: 18547 poz
+2026-06-07 12:16:07 - ihale_otomasyonu - DEBUG - Güncel cache bulundu, yükleniyor
+2026-06-07 12:16:10 - ihale_otomasyonu - INFO - Cache yüklendi: 18621 poz
+2026-06-07 12:16:12 - ihale_otomasyonu - INFO - Tanım cache yüklendi: 18547 poz
+2026-06-07 12:23:17 - ihale_otomasyonu - DEBUG - Güncel cache bulundu, yükleniyor
+2026-06-07 12:23:18 - ihale_otomasyonu - INFO - Cache yüklendi: 18621 poz
+2026-06-07 12:23:19 - ihale_otomasyonu - INFO - Tanım cache yüklendi: 18547 poz

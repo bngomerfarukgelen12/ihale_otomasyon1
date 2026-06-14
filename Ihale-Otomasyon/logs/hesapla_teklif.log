@@ -1,0 +1,24 @@
+2026-06-07 12:06:46 - hesapla_teklif - INFO - ============================================================
+2026-06-07 12:06:46 - hesapla_teklif - INFO - Program başlatıldı: 2026-06-07 12:06:46
+2026-06-07 12:06:46 - hesapla_teklif - INFO - ============================================================
+2026-06-07 12:06:46 - hesapla_teklif - ERROR - Kullanım: python hesapla_teklif.py [belediye|tpao|belpark|seydisehir]
+2026-06-07 12:06:46 - hesapla_teklif - INFO - Program sonlandırıldı (HATA İLE SONLANDI): 2026-06-07 12:06:46
+2026-06-07 12:06:46 - hesapla_teklif - INFO - ============================================================
+2026-06-07 12:07:17 - hesapla_teklif - INFO - ============================================================
+2026-06-07 12:07:17 - hesapla_teklif - INFO - Program başlatıldı: 2026-06-07 12:07:17
+2026-06-07 12:07:17 - hesapla_teklif - INFO - ============================================================
+2026-06-07 12:07:17 - hesapla_teklif - INFO - Cetvel işleniyor: belediye
+2026-06-07 12:07:17 - hesapla_teklif - INFO - Teklif dosyası: C:\Users\argge\OneDrive\Masaüstü\Ihale-Otomasyon\excel\belediye teklif cetveli .xlsx
+2026-06-07 12:07:21 - hesapla_teklif - INFO - Teklif dosyası kaydedildi: C:\Users\argge\OneDrive\Masaüstü\Ihale-Otomasyon\excel\belediye teklif cetveli .xlsx
+2026-06-07 12:07:21 - hesapla_teklif - INFO - İşlem tamamlandı: 4 kalem hesaplandı, 0 kalem bulunamadı
+2026-06-07 12:07:21 - hesapla_teklif - INFO - ============================================================
+2026-06-07 12:07:21 - hesapla_teklif - INFO - OPERASYON ÖZETİ
+2026-06-07 12:07:21 - hesapla_teklif - INFO -   Cetvel: belediye
+2026-06-07 12:07:21 - hesapla_teklif - INFO -   Hesaplanan kalem: 4
+2026-06-07 12:07:21 - hesapla_teklif - INFO -   Tanim eslesen: 0
+2026-06-07 12:07:21 - hesapla_teklif - INFO -   Bulunamayan kalem: 0
+2026-06-07 12:07:21 - hesapla_teklif - INFO -   Toplam tutar: 55,730,475.00 TL
+2026-06-07 12:07:21 - hesapla_teklif - INFO -   Teklif dosyasi: C:\Users\argge\OneDrive\Masaüstü\Ihale-Otomasyon\excel\belediye teklif cetveli .xlsx
+2026-06-07 12:07:21 - hesapla_teklif - INFO - ============================================================
+2026-06-07 12:07:21 - hesapla_teklif - INFO - Program sonlandırıldı (BAŞARILI): 2026-06-07 12:07:21
+2026-06-07 12:07:21 - hesapla_teklif - INFO - ============================================================
